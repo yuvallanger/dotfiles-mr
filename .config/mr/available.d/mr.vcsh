@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/mr.git]
-checkout = vcsh clone --branch mr $HOME/mine/foo/rubberduckdev/dotfiles mr
+checkout = vcsh clone $HOME/mine/foo/yuvallanger/dotfiles-mr mr
