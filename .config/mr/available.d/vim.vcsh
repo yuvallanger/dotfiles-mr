@@ -1,4 +1,4 @@
 [$HOME/.config/vcsh/repo.d/vim.git]
 checkout = vcsh clone $HOME/mine/foo/yuvallanger/dotfiles-vim vim
 fetch    = vcsh run vim git fetch --all -v
-
+update   = vcsh run vim git pull -v

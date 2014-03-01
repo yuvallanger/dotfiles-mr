@@ -1,3 +1,4 @@
 [$HOME/.config/vcsh/repo.d/mr.git]
 checkout = vcsh clone $HOME/mine/foo/yuvallanger/dotfiles-mr mr
 fetch    = vcsh run mr git fetch --all -v
+update   = vcsh run mr git pull -v
