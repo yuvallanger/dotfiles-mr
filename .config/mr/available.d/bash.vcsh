@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/bash.git]
+checkout = vcsh clone $HOME/mine/foo/yuvallanger/dotfiles-bash bash
+fetch    = vcsh run bash git fetch --all -v
+
